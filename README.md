@@ -1,1 +1,1 @@
-# Job-and-Salary-Dat-Cleanign-Process
+# Job-and-Salary-Data-Cleaning-Process
